@@ -1,0 +1,11 @@
+npm init -y
+
+instalando whatsapp-web.js
+npm install whatsapp-web.js qrcode-terminal
+
+rodando:
+node index
+
+desinstalando:
+npm uninstall whatsapp-web.js
+npm uninstall qrcode-terminal
